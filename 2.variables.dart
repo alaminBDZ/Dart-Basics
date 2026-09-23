@@ -15,9 +15,8 @@ void main() {
   print("Name: $name");
   print("Age: $age");
   print("CGPA: $cgpa");
-  print("Student: $isStudent")
+  print("Student: $isStudent");
 
   // String interpolation
-  print("$name is $age years old")
-
+  print("$name is $age years old");
 }
