@@ -1,0 +1,3 @@
+Name: Alamin
+Age: 20
+CGPA: 3.50University: University of Chittagong
